@@ -1,6 +1,6 @@
 # oliver.github.io
 oliver.github.io/portfolio
-# Employee records
+/* Employee records
 - martin:
     name: Martin D'vloper
     job: Developer
@@ -15,3 +15,5 @@ oliver.github.io/portfolio
       - lisp
       - fortran
       - erlang
+
+*/
