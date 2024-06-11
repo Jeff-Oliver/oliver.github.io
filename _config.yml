@@ -6,3 +6,5 @@ show_downloads: true
 # https://pages-themes.github.io/minimal/
 # https://pages-themes.github.io/cayman/
 theme: jekyll-theme-minimal
+
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll
